@@ -4,4 +4,3 @@
 
 🌎 When I'm not coding, you can find me exploring new places, trying new foods, or spending time with my family and friends. I believe in the power of community and collaboration, and I am always eager to work with others to create something amazing. 
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
