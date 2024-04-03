@@ -4,5 +4,4 @@
 
 🌎 When I'm not coding, you can find me exploring new places, trying new foods, or spending time with my family and friends. I believe in the power of community and collaboration, and I am always eager to work with others to create something amazing. 
 
-data-science-uses-scientific-methods-processes-algorithms-systems-to-extract-knowledge-insights-various-concept-207016521.webp
 
