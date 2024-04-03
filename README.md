@@ -2,4 +2,6 @@
 
 🚀 My journey as a scientist began when I discovered my passion for problem solving and decided to pursue it on my own. Through countless hours of offline and online  courses, tutorials, and practice, I honed my skills and developed a strong understanding of data science concepts and best practices. I love the challenge of problem-solving and am always looking for ways to improve my abilities and stay up-to-date with the latest technologies.
 
-🌎 When I'm not coding, you can find me exploring new places, trying new foods, or spending time with my family and friends. I believe in the power of community and collaboration, and I am always eager to work with others to create something amazing. 💪
+🌎 When I'm not coding, you can find me exploring new places, trying new foods, or spending time with my family and friends. I believe in the power of community and collaboration, and I am always eager to work with others to create something amazing. 
+
+<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
