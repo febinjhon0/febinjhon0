@@ -1,4 +1,6 @@
 ![istockphoto-1389238948-612x612](https://github.com/Sunbird-ALL/all-config-app/assets/137596876/f261ff21-6c18-4315-aeb1-e342a8c42a8b)
+![istockphoto-1483358448-612x612](https://github.com/containerd/containerd/assets/137596876/6e0542af-773d-4251-9177-8c81081822ec)
+
 
 
 👋 Hi there, my name is Febin K S and I am a Data Science Intern. I am a self-taught Scientist who is passionate about creating, cleaning, and to find the correct algorithms for data set and predictions 💻🚀 With my expertise in Mechine Learning, Deep Learning, Python,R Programming,Tableu and Power BI. I am able to Create data set and make predicitons using AI for the particular sectors and users alike.
