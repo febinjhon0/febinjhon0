@@ -1,4 +1,4 @@
-
+(https://user-images.githubusercontent.com/60442324/233789761-569fbf12-b216-48e0-8427-1c242f0583d7.gif)
 
 👋 Hi there, my name is Febin K S and I am a Data Science Intern. I am a self-taught Scientist who is passionate about creating, cleaning, and to find the correct algorithms for data set and predictions 💻🚀 With my expertise in Mechine Learning, Deep Learning, Python,R Programming,Tableu and Power BI. I am able to Create data set and make predicitons using AI for the particular sectors and users alike.
 
