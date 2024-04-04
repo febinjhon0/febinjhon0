@@ -1,4 +1,4 @@
-
+![Alt text](https://www.vecteezy.com/photo/5442693-data-science-analytics-internet-and-technology-concept-concept)
 
 👋 Hi there, my name is Febin K S and I am a Data Science Intern. I am a self-taught Scientist who is passionate about creating, cleaning, and to find the correct algorithms for data set and predictions 💻🚀 With my expertise in Mechine Learning, Deep Learning, Python,R Programming,Tableu and Power BI. I am able to Create data set and make predicitons using AI for the particular sectors and users alike.
 
