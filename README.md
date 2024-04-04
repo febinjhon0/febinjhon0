@@ -5,4 +5,4 @@
 🌎 When I'm not coding, you can find me exploring new places, trying new foods, or spending time with my family and friends. I believe in the power of community and collaboration, and I am always eager to work with others to create something amazing. 
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/febin-k-s-93b88220a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_.feb_in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/febin-k-s-93b88220a)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.feb_in)
