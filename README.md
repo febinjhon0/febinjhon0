@@ -1,4 +1,3 @@
-![Uploading data_science.gif…]()
 
 
 
