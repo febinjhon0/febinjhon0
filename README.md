@@ -1,4 +1,4 @@
-![image_processing20191213-6403-1j99nlm](https://github.com/febinjhon0/loan_prediction_using_ml/assets/137596876/f295d4d1-c0c1-4e75-b7ac-d0c6deb14ac3)
+![](https://raw.githubusercontent.com/febinjhon0/febinjhon0/refs/heads/main/fdsa.webp)
 
 
 
