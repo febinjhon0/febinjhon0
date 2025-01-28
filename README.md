@@ -21,5 +21,4 @@
 
 # Stats:
 ![febinjhon0's Stats](https://github-readme-stats.vercel.app/api?username=febinjhon0&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=febinjhon0)](https://git.io/streak-stats)
 ![febinjhon0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febinjhon0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
