@@ -27,3 +27,6 @@
 ![febinjhon0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febinjhon0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ![snake gif](https://github.com/febinjhon0/febinjhon0/blob/output/github-snake-dark.svg)
+https://streak-stats.demolab.com?user=febinjhon0
+
+
