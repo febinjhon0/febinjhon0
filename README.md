@@ -30,3 +30,5 @@
 
 ![Febin's GitHub stats](https://github-readme-stats.vercel.app/api?username=febinjhon0&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Febin's GitHub stats](https://github-readme-stats.vercel.app/api?username=febinjhon0&hide=contribs,prs)
+
