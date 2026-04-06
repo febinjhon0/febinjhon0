@@ -27,7 +27,3 @@
 ![Febin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febinjhon0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ![snake gif](https://github.com/febinjhon0/febinjhon0/blob/output/github-snake-dark.svg)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=febinjhon0&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=febinjhon0&layout=compact&theme=tokyonight)
