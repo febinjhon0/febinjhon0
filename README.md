@@ -29,3 +29,12 @@
 ![snake gif](https://github.com/febinjhon0/febinjhon0/blob/output/github-snake-dark.svg)
 https://github-readme-stats.vercel.app/api?username=febinjhon0
 
+# Stats:
+![Febin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=febinjhon0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+[![Febin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=febinjhon0&theme=highcontrast)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=febinjhon0&layout=compact&theme=tokyonight)
+
+![snake gif](https://github.com/febinjhon0/febinjhon0/blob/output/github-snake-dark.svg)
+
