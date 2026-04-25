@@ -113,28 +113,6 @@ Exploring REST API development
 
 Learning more about Machine Learning and AI
 
-
-
-📈 GitHub Stats
-
-
-
-Replace your-github-username with your actual GitHub username.
-
-
-📫 Connect With Me
-
-
-LinkedIn: Your LinkedIn Profile
-
-
-GitHub: Your GitHub Profile
-
-
-Email: your-email@example.com
-
-
-
 ✨ Personal Note
 I enjoy turning ideas into real-world applications through code. As a fresher, I am eager to contribute, learn from experienced developers, and grow in the software development industry.
 
