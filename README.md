@@ -4,11 +4,141 @@
 
 
 
-👋 Hi there, my name is Febin K S and I am a Data Science Intern. I am a self-taught Scientist who is passionate about creating, cleaning, and to find the correct algorithms for data set and predictions 💻🚀 With my expertise in Mechine Learning, Deep Learning, Python,R Programming,Tableu and Power BI. I am able to Create data set and make predicitons using AI for the particular sectors and users alike.
+Hi there, I'm Febin K S 👋
+🎓 MCA Graduate | 💻 Python Developer | 🌱 Learning & Building with Django and Machine Learning
+I am a passionate and self-motivated MCA graduate with a strong interest in Python development, backend technologies, and problem-solving. I enjoy building practical and user-friendly applications using Python and Django, and I am continuously improving my skills by working on real-world projects.
+I have hands-on knowledge in Python, Django, and Machine Learning concepts, with a growing interest in backend development, REST APIs, and intelligent applications. I enjoy learning new technologies, exploring innovative solutions, and building projects that create real impact.
 
-🚀 My journey as a scientist began when I discovered my passion for problem solving and decided to pursue it on my own. Through countless hours of offline and online  courses, tutorials, and practice, I honed my skills and developed a strong understanding of data science concepts and best practices. I love the challenge of problem-solving and am always looking for ways to improve my abilities and stay up-to-date with the latest technologies.
+🚀 About Me
 
-🌎 When I'm not coding, you can find me exploring new places, trying new foods, or spending time with my family and friends. I believe in the power of community and collaboration, and I am always eager to work with others to create something amazing. 
+
+🎓 Completed Master of Computer Applications (MCA)
+
+
+💻 Skilled in Python and Django
+
+
+🤖 Familiar with Machine Learning concepts
+
+
+🌐 Interested in Backend Development and Web Applications
+
+
+📚 Continuously learning and improving my technical skills
+
+
+🚀 Actively looking for opportunities to grow as a developer
+
+
+
+🛠️ Tech Stack
+💻 Languages & Frameworks
+
+
+Python
+
+
+Django
+
+
+Django REST Framework
+
+
+HTML
+
+
+CSS
+
+
+JavaScript
+
+
+Bootstrap
+
+
+🤖 Machine Learning
+
+
+NumPy
+
+
+Pandas
+
+
+Scikit-learn
+
+
+Machine Learning Basics
+
+
+🗄️ Database
+
+
+MySQL
+
+
+PostgreSQL
+
+
+🧰 Tools & Platforms
+
+
+Git
+
+
+GitHub
+
+
+VS Code
+
+
+Postman
+
+
+Jupyter Notebook
+
+
+
+📌 What I’m Working On
+
+
+Building backend projects using Django
+
+
+Improving problem-solving skills in Python
+
+
+Exploring REST API development
+
+
+Learning more about Machine Learning and AI
+
+
+
+📈 GitHub Stats
+
+
+
+Replace your-github-username with your actual GitHub username.
+
+
+📫 Connect With Me
+
+
+LinkedIn: Your LinkedIn Profile
+
+
+GitHub: Your GitHub Profile
+
+
+Email: your-email@example.com
+
+
+
+✨ Personal Note
+I enjoy turning ideas into real-world applications through code. As a fresher, I am eager to contribute, learn from experienced developers, and grow in the software development industry.
+
+⭐ Thanks for visiting my profile!
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/febin-k-s-93b88220a)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.feb_in)
