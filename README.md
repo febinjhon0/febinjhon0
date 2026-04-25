@@ -5,7 +5,7 @@
 
 
 Hi there, I'm Febin K S 👋
-🎓 MCA Graduate | 💻 Python Developer | 🌱 Learning & Building with Django and Machine Learning
+🎓 MCA Graduate | 💻 Python Developer | 🌱 Learning & Building with Django and Machine Learning.
 I am a passionate and self-motivated MCA graduate with a strong interest in Python development, backend technologies, and problem-solving. I enjoy building practical and user-friendly applications using Python and Django, and I am continuously improving my skills by working on real-world projects.
 I have hands-on knowledge in Python, Django, and Machine Learning concepts, with a growing interest in backend development, REST APIs, and intelligent applications. I enjoy learning new technologies, exploring innovative solutions, and building projects that create real impact.
 
