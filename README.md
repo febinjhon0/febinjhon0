@@ -51,6 +51,6 @@ I have hands-on knowledge in Python, Django, and Machine Learning concepts, with
 
 [![Febin's Streak](https://streak-stats.demolab.com?user=febinjhon0&theme=highcontrast)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febinjhon0&layout=compact&theme=tokyonight)
+![Febin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febinjhon0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ![Snake animation](https://raw.githubusercontent.com/febinjhon0/febinjhon0/output/github-contribution-grid-snake-dark.svg)
